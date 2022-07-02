@@ -6,20 +6,20 @@
 
 ## Registered Jack Adapter (RJA)
 
-| USOC | Description | Image |
-| -- | -- | -- |
-| RJA1X | | ![Image of RJA1X](images/RJA1X.png) ![Image of RJA1X (2)](images/RJA1X-side2.png) |
-| RJA2X | | |
-| RJA3X | | |
-| RJA4X | | |
-| RJA5X | | |
+| USOC | Name | Description | Other codes | Image |
+| -- | -- | -- | -- | -- |
+| `RJA1X` | | | `225A`, `225AW` | <img alt="Image of RJA1X" height="200" src="images/RJA1X.png"> <img alt="Image of RJA1X (2)" height="200" src="images/RJA1X-side2.png"> |
+| `RJA2X` | | |
+| `RJA3X` | | |
+| `RJA4X` | | |
+| `RJA5X` | | |
 
 ## Registered Jack Mount (RJM)
 
 | USOC | Description | Image |
 | -- | -- | -- |
-| RJM2X | | |
-| RJM3X | | |
-| RJM4X | | |
+| `RJM2X` | | |
+| `RJM3X` | | |
+| `RJM4X` | | |
 
-*It seems that <ins>RJM1X</ins> does not exist.*
+*It seems that `RJM1X` does not exist.*
