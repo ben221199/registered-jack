@@ -8,7 +8,7 @@
 
 | USOC | Description | Image |
 | -- | -- | -- |
-| RJA1X | | |
+| RJA1X | | ![Image of RJA1X](images/RJA1X.jpg) |
 | RJA2X | | |
 | RJA3X | | |
 | RJA4X | | |
