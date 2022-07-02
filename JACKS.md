@@ -9,7 +9,7 @@
 | USOC | Name | Description | Other codes | Image |
 | -- | -- | -- | -- | -- |
 | `RJA1X` | | | `225A`, `225AW` | <img alt="Image of RJA1X" height="200" src="images/RJA1X.png"> <img alt="Image of RJA1X (2)" height="200" src="images/RJA1X-side2.png"> |
-| `RJA2X` | | |
+| `RJA2X` | | | `267A`, `267AW` | <img alt="Image of RJA2X (Non Official)" height="200" src="images/RJA2X-nonOfficial.png"> |
 | `RJA3X` | | |
 | `RJA4X` | | |
 | `RJA5X` | | |
