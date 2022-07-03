@@ -2,7 +2,15 @@
 
 ## Registered Jack (RJ)
 
-*TODO*
+| USOC | Name | Description | Other codes | Image |
+| -- | -- | -- | -- | -- |
+| RJ11C | Bridged T/R; 6-position jack |
+| RJ11W | Bridged T/R; 6-position jack |
+| RJ14C | Bridged T/R; 6-position jack |
+| RJ14W | Bridged T/R; 6-position jack |
+| RJ15C | Bridged T/R; 3-position weatherproof jack | | | <img alt="Image of RJ15C" height="200" src="images/RJ15C.png"> |
+| RJ18C | Bridged T/R with make-busy arrangement; 6-position jack |
+| RJ18W | Bridged T/R with make-busy arrangement; 6-position jack |
 
 ## Registered Jack Adapter (RJA)
 
